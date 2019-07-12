@@ -1,6 +1,6 @@
 {
   "name": "react-complete-guide",
-  "homepage": "http://anrao91.github.io/redux-starter-app/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
